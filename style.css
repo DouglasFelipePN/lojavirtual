@@ -2,9 +2,9 @@
 
 
 *{
-  font-family: Arial, Helvetica, sans-serif
-  margin: 0px;
-  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin:0px;
+  padding:0px;
 }
 
 header{
@@ -98,7 +98,7 @@ img{
 }
 
 footer{
-  padding: 1px;
+  padding: 10px;
  background-color: black;
 }
 footer>p{
